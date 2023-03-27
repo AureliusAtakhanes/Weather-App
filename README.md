@@ -1,0 +1,1 @@
+This weather app allows users to get up-to-date weather information by using geolocation or by selecting any city manually. Written in HTML, CSS and JS, the application allows you to quickly and conveniently find out the current temperature, weather conditions, wind speed and other weather information.
